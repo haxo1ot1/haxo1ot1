@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber threat intelligence and threat hunting.
 - 🌱 I’m currently learning offensive tecniques in the hopes of developing methods for defense. 
 - 💞️ I’m looking to collaborate on blue team tools and IOC's. 
-- 📫 How to reach me ...
+- 📫 Feel free to get in touch with on Twitter (@haxo1ot1) or through email (haxo1ot1@proton.me)
 
 <!---
 haxo1ot1/haxo1ot1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
